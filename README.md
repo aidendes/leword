@@ -8,8 +8,8 @@ Essentially, the user follows a series of prompts and enters the letters they kn
 
 Datasets used are:-
 
-[Collins Scrabble Words 2021](https://ia903406.us.archive.org/31/items/csw21/CSW21.txt)
-[20,000 most common english words](https://github.com/first20hours/google-10000-english)
+* [Collins Scrabble Words 2021](https://ia903406.us.archive.org/31/items/csw21/CSW21.txt)  
+* [20,000 most common english words](https://github.com/first20hours/google-10000-english)
 
 To use the packaged .jar file, the two text files, `top.txt` and `wordlist.txt` must be available in the runtime drawer. This also allows the user to change the datasets if they wish, as opposed to packaging them in the .jar file.
 
